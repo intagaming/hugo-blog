@@ -3,7 +3,6 @@ title = "Distributed Realtime Server Architecture"
 date = "2022-07-08T03:33:00+0700"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/syo26ia6z.png"
 tags = []
 keywords = []
 description = "How I tried to scale a realtime authoritative server horizontally."

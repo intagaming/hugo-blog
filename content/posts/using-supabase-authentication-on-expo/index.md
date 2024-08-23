@@ -3,7 +3,6 @@ title = "Using Supabase Authentication on Expo"
 date = "2021-12-24"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/fefcodo7g.jpg"
 tags = []
 keywords = []
 description = "How to integrate Supabase Authentication into Expo, with GitHub OAuth example."

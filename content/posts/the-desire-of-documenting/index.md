@@ -3,7 +3,6 @@ title = "The desire of documenting"
 date = "2021-06-24"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/document_iiusji.jpg"
 tags = []
 keywords = []
 description = "Think, at which point in time do you want to document things?"

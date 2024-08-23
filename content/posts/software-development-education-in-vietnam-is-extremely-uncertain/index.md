@@ -3,7 +3,6 @@ title = "Software development education in Vietnam is extremely uncertain"
 date = "2021-10-02"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/qsicvnv2e.jpg"
 tags = []
 keywords = []
 description = "Someone who's teaching you right now might never be able to join the job market anymore."

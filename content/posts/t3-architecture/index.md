@@ -3,7 +3,6 @@ title = "What is the architecture of the T3 application?"
 date = "2022-09-25T03:47:00+0700"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/riv7jhhgy.png"
 tags = []
 keywords = []
 description = "Is it even MVC? Serverless?"

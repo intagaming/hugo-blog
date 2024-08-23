@@ -3,7 +3,6 @@ title = "Code editors right now are all mid"
 date = "2023-03-12T16:15:00+0700"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/5c5sorpe1.jpg"
 tags = []
 keywords = []
 description = "Just spent my weekend improving my editor situation. Let's talk about what happened."

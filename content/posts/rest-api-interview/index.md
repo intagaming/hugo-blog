@@ -3,7 +3,6 @@ title = '"Tell me about the basics of REST API."'
 date = "2023-12-09"
 author = "An7"
 authorTwitter = ""
-cover = ""
 tags = []
 keywords = []
 description = "Spoiler: It was about HTTP."

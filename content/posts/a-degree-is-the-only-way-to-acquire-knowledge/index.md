@@ -3,7 +3,6 @@ title = "A degree is the only way to acquire knowledge"
 date = "2021-07-05"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/guy-studying.jpg"
 tags = []
 keywords = []
 description = "🐧"

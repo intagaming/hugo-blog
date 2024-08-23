@@ -3,7 +3,6 @@ title = "What your school teaches you about making a Facebook clone"
 date = "2021-07-12"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/fpt-meme.jpg"
 tags = []
 keywords = []
 description = 'Alternative title: How you can make "AJAX" calls without APIs.'

@@ -3,7 +3,6 @@ title = "The art of self-studying"
 date = "2021-06-25"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/book-and-pen_vovlqo.jpg"
 tags = []
 keywords = []
 description = "It doesn't have to be messy."

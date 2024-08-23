@@ -3,7 +3,6 @@ title = "localStorage vs. Cookie for token storage"
 date = "2021-09-24"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/cookie.jpg"
 tags = []
 keywords = []
 description = "localStorage is not as unsecured as you'd think."

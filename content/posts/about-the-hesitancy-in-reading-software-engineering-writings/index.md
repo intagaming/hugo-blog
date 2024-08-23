@@ -3,7 +3,6 @@ title = "About the hesitancy in reading Software Engineering writings"
 date = "2022-05-27"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/5c5sorpe1.jpg"
 tags = []
 keywords = []
 description = "Read documentations!"

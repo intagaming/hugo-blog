@@ -3,7 +3,6 @@ title = "Consuming contents without caption"
 date = "2021-12-23"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/f-dh2zld1.jpg"
 tags = []
 keywords = []
 description = "You might have achieved adequate English comprehension without knowing."

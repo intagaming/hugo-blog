@@ -3,7 +3,6 @@ title = "Types of knowledge in Software Engineering"
 date = "2022-06-27T12:25:00+0700"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/kkys8a0ib.jpg"
 tags = []
 keywords = []
 description = 'Distinction between facts, "original knowledge", "speculation knowledge" and "inferred knowledge".'

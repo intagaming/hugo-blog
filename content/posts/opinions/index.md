@@ -3,7 +3,6 @@ title = "Opinions"
 date = "2023-06-03T09:38:00+0700"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/5c5sorpe1.jpg"
 tags = []
 keywords = []
 description = "A story about how an awful English song can bring out the worst in a person."

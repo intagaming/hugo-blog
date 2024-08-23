@@ -3,7 +3,6 @@ title = 'The undisputable truth about "coding exams"'
 date = "2021-08-14"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/code.jpg"
 tags = []
 keywords = []
 description = "Did you not remember the damn Math.pow() in your foreign programming language?"

@@ -3,7 +3,6 @@ title = "Religious software development arguments"
 date = "2023-01-24T05:06:00+0700"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/bear-fight.jpeg"
 tags = []
 keywords = []
 description = "Software development arguments are becoming blindly religious."

@@ -3,7 +3,6 @@ title = "About OpenAPI, its tools, and design-first APIs"
 date = "2022-06-07"
 author = "An7"
 authorTwitter = ""
-cover = "/images/uploads/5c5sorpe1.jpg"
 tags = []
 keywords = []
 description = "OpenAPI has not ripen."
